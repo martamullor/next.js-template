@@ -1,29 +1,29 @@
-# README #
+# Next.js Template
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This template serves as a starting point for developing frontend projects in Next.js
 
-### What is this repository for? ###
+## How to use it:
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+```
+git clone https://github.com/martamullor/next.js-template.git mynewrepo
+```
 
-### How do I get set up? ###
+```
+cd mynewrepo
+```
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+```
+git remote set-url origin /url/of/new/empty/repo
+```
 
-### Contribution guidelines ###
+```
+git push -u origin main
+```
 
-* Writing tests
-* Code review
-* Other guidelines
+## Accessibility
 
-### Who do I talk to? ###
+-   [Eslint rule](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
 
-* Repo owner or admin
-* Other community or team contact
+## Recommendations:
+
+-   Follow the [React Design Pattern recommendations](https://medium.com/@obrm770/best-practices-and-design-patterns-in-react-js-for-high-quality-applications-6b203be747fb)
